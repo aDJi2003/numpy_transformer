@@ -33,8 +33,7 @@ Kode program disajikan dalam format Jupyter Notebook (`.ipynb`) agar mudah dijal
 
 1.  **Clone Repositori**:
     ```bash
-    git clone [URL_GITHUB_ANDA]
-    cd [NAMA_FOLDER_PROYEK]
+    git clone https://github.com/aDJi2003/numpy_transformer
     ```
 2.  **Pastikan Dependensi Terpasang**: Jalankan perintah `pip install` di atas.
 3.  **Buka Notebook**: Buka file `main.ipynb` menggunakan Jupyter Notebook atau Jupyter Lab.
